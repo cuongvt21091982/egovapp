@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "427955879926",
+    "project_id": "egov-send-message",
+    "storage_bucket": "egov-send-message.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427955879926:android:ba81993ed6f92964ca51d7",
+        "android_client_info": {
+          "package_name": "com.egov.app.egovapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427955879926-hqtd1d1oaqmm3p39e8ssotcaji3aarnb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.egov.app.egovapp",
+            "certificate_hash": "55791e8253293030fd61fd6291b9e90112473f2f"
+          }
+        },
+        {
+          "client_id": "427955879926-1d3uud1svkubu0n2d8a1bm0v2utbnahq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnjVtO2P9N4bg3oPcKF0T9gARwzH0t1JI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427955879926-1d3uud1svkubu0n2d8a1bm0v2utbnahq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

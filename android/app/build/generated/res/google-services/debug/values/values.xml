@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">325994726630-5022evr3h0j7im1aqmet15nl4e6nb1pj.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">325994726630</string>
+    <string name="google_api_key" translatable="false">AIzaSyBZ6DYVvRSCpJ4veQqnMKWyomKWEWuD5lQ</string>
+    <string name="google_app_id" translatable="false">1:325994726630:android:50dff38ad3e0b28ed62727</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBZ6DYVvRSCpJ4veQqnMKWyomKWEWuD5lQ</string>
+    <string name="google_storage_bucket" translatable="false">egov-tccs-message.appspot.com</string>
+    <string name="project_id" translatable="false">egov-tccs-message</string>
+</resources>
